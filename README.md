@@ -95,7 +95,7 @@ Become familiar with Web Development basics - HTML/CSS/JavaScript plus Git and u
 | [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial/getting_started)                                                                          |      X     |
 | [Learn Enough HTML to Be Dangerous](https://www.learnenough.com/html-tutorial/html_intro)                                                                             |      X     |
 | [Learn Enough CSS & Layout to Be Dangerous](https://www.learnenough.com/css-and-layout-tutorial/introduction)                                                         |      X     |
-| [Learn Enough JavaScript to Be Dangerous](https://www.learnenough.com/javascript-tutorial/hello_world)                                                                |      X     | [link](https://github.com/Selt0/jsGallery)
+| [Learn Enough JavaScript to Be Dangerous](https://www.learnenough.com/javascript-tutorial/hello_world)                                                                |      X     | [link](https://selt0.github.io/learn-enough/)
 | **Reading**                                                                                                                                                           | **Status** | **Evidence** |
 | [MDN HTML - Beginner's tutorials](https://developer.mozilla.org/en-US/docs/Web/HTML#Beginner's_tutorials)                                                             |      X     |
 | [MDN CSS - Tutorials](https://developer.mozilla.org/en-US/docs/Web/CSS#Tutorials)                                                                                     |      X     |
@@ -103,9 +103,9 @@ Become familiar with Web Development basics - HTML/CSS/JavaScript plus Git and u
 | [Eloquent JavaScript](https://eloquentjavascript.net/)                                                                                                                |In Progress|
 | **Practice**                                                                                                                                                          | **Status** | **Evidence** |
 | [Google Home Page](https://www.theodinproject.com/courses/web-development-101/lessons/html-css)                                                                       |      X     | [link](https://selt0.github.io/google-homepage/)      
-| [Rock Paper Scissors](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)                                                         |      X     | [link](selt0.github.io/rock-paper-scissors/)          
-| Tier Programming Project                                                                                                                                              |      X     | [link](selt0.github.io/landing-page/)
-| Tier Programming Project                                                                                                                                              |      X     | [link](https://selt0.github.io/learn-enough/)
+| [Rock Paper Scissors](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)                                                         |      X     | [link](https://selt0.github.io/rock-paper-scissors/)          
+| Tier Programming Project                                                                                                                                              |      X     | [link](https://selt0.github.io/landing-page/)
+| Tier Programming Project                                                                                                                                              |      X     | [link](https://selt0.github.io/museum-candy/)
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
 
