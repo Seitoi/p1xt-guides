@@ -106,9 +106,11 @@ Become familiar with Web Development basics - HTML/CSS/JavaScript plus Git and u
 | [Rock Paper Scissors](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)                                                         |      X     | [link](https://selt0.github.io/rock-paper-scissors/)          
 | Tier Programming Project                                                                                                                                              |      X     | [link](https://selt0.github.io/Javascript_doc/)
 | Tier Programming Project                                                                                                                                              |      X     | [link](https://selt0.github.io/museum-candy/)
+| **Specialization**                                                                                                                                                                                                                                                                                                                                    | **Status** | **Evidence** |
+| Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp 
+| In Progress | [link](https://github.com/Selt0/p1xt-guides/blob/master/specializations/app_academy_open.md)
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
-
 ### Tier 1 - Getting Started
 
 Deepen understanding of Web Development and begin learning Computer Science topics
@@ -136,7 +138,7 @@ Deepen understanding of Web Development and begin learning Computer Science topi
 | Tier Programming Project                                                                                                                                                                                                                                                                                                                              |            |
 | Tier Programming Project                                                                                                                                                                                                                                                                                                                              |            |
 | **Specialization**                                                                                                                                                                                                                                                                                                                                    | **Status** | **Evidence** |
-| Complete a [Specialization](#specializations) - note: you will have the opportunity to complete a specialization in each tier so don't worry overmuch about picking 'the right one'. That said, for your first specialization [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md) is highly recommended. |            |
+| Complete a [Specialization](#specializations) - note: you will have the opportunity to complete a specialization in each tier so don't worry overmuch about picking 'the right one'. That said, if you didn't do App Academy in Tier 0 [Web Development - Fullstack Bootcamp - App Academy Open](./specializations/app_academy_open.md) is highly recommended. |            |
 
 <br><br>
 
