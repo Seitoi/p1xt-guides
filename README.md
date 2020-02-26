@@ -82,7 +82,7 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 | [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |     X      |
 | [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |     X      |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |  [link](https://selt0.github.io/landing-page/)       |
+| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |      X      | [link](https://selt0.github.io/landing-page/) 
 
 ### Tier 0 - Programming Prep
 
