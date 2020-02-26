@@ -65,7 +65,7 @@ Math will be relevant throughout the guide. Begin it as you start the guide, and
 
 | Courses                                                       | Status | Evidence |
 | :------------------------------------------------------------ | :----: | :------: |
-| [Algebra I](https://www.khanacademy.org/math/algebra)         |    X   |  X       |
+| [Algebra I](https://www.khanacademy.org/math/algebra)         |    X   |          |
 | [Algebra II](https://www.khanacademy.org/math/algebra2)       |In progress|       |
 | [Trigonometry](https://www.khanacademy.org/math/trigonometry) |        |          |
 | [Precalculus](https://www.khanacademy.org/math/precalculus)   |        |          |
@@ -82,7 +82,7 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 | [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/computer-programming/programming-games-visualizations)                                    |     X      |
 | [HTML/JS: Making webpages interactive](https://www.khanacademy.org/computing/computer-programming/html-css-js)                                                        |     X      |
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
-| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
+| Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |  [link](https://selt0.github.io/landing-page/)       |
 
 ### Tier 0 - Programming Prep
 
@@ -104,7 +104,7 @@ Become familiar with Web Development basics - HTML/CSS/JavaScript plus Git and u
 | **Practice**                                                                                                                                                          | **Status** | **Evidence** |
 | [Google Home Page](https://www.theodinproject.com/courses/web-development-101/lessons/html-css)                                                                       |      X     | [link](https://selt0.github.io/google-homepage/)      
 | [Rock Paper Scissors](https://www.theodinproject.com/courses/web-development-101/lessons/rock-paper-scissors)                                                         |      X     | [link](https://selt0.github.io/rock-paper-scissors/)          
-| Tier Programming Project                                                                                                                                              |      X     | [link](https://selt0.github.io/landing-page/)
+| Tier Programming Project                                                                                                                                              |      X     | [link](https://selt0.github.io/Javascript_doc/)
 | Tier Programming Project                                                                                                                                              |      X     | [link](https://selt0.github.io/museum-candy/)
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
