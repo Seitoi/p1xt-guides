@@ -12,7 +12,7 @@ If you want to develop the skills necessary to be 'job ready' for a junior devel
 
 - [tier X - Math Prep](#tier-x---math-prep)
 - [tier X - Programming Prep Prep](#tier-x---programming-prep-prep)
-- [tier 0 - Programming Prep](#tier-0---web-development---fullstack-bootcamp---app-academy-open)
+- [tier 0 - Programming Prep](#tier-0---programming-prep)
 - [tier 1 - Getting Started](#tier-1---getting-started)
 
 ### Intermediate developer
@@ -85,9 +85,9 @@ A very gentle introduction, complete if feel you would benefit from it, skip if 
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |      X      | [link](https://selt0.github.io/landing-page/) 
 
-### Tier 0 - Web Development - Fullstack Bootcamp - App Academy Open
+### Tier 0 - Programming Prep
 
-Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp.
+Become familiar with Web Development basics - HTML/CSS/JavaScript plus Git and using the Editor of your choice
 
 | Courses                                                                                                                                                               |   Status   |   Evidence   |
 | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :--------: | :----------: |
