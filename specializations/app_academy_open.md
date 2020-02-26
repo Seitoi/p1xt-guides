@@ -12,16 +12,12 @@ Complete the [App Academy Open](https://open.appacademy.io/) free online Fullsta
 | Full Stack Online - Rails                                                                                                                                                       |            |              |
 | Full Stack Online - JavaScript                                                                                                                                                  |            |              |
 | Full Stack Online - React                                                                                                                                                       |            |              |
-| Full Stack Online - Full Stack Project                                                                                                                                          |            |              |
-| Full Stack Online - MERN Stack Curriculum
-|            |              |
-| Full Stack Online - Job Search                                                                                                                                                  |            |              |
-| Full Stack Online - Docker
-|            |              |
-| Full Stack Online - GraphQI
-|            |              |
-| Full Stack Online - Data Structures and Algorithms
-|            |              |
+| Full Stack Online - Full Stack Project                                                                                                                                                     |            |              |
+| Full Stack Online - MERN Stack Curriciulum                                                                                                                                                 |            |              |
+| Full Stack Online - Job Search                                                                                                                                                      |            |              |
+| Full Stack Online - Docker                                                                                                                                                      |            |              |
+| Full Stack Online - GraphQl                                                                                                                                                     |            |              |
+| Full Stack Online - Data Structures and Algorithms                                                                                                                                                  |            |              |
 | **Reading**                                                                                                                                                                     | **Status** | **Evidence** |
 | [Learn Enough Ruby to Be Dangerous](https://www.learnenough.com/ruby-tutorial/hello_world)                                                                                      |            |              |
 | [Ruby on Rails Tutorial](https://www.railstutorial.org/book)                                                                                                                    |            |              |
