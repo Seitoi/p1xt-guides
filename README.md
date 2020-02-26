@@ -107,8 +107,7 @@ Become familiar with Web Development basics - HTML/CSS/JavaScript plus Git and u
 | Tier Programming Project                                                                                                                                              |      X     | [link](https://selt0.github.io/Javascript_doc/)
 | Tier Programming Project                                                                                                                                              |      X     | [link](https://selt0.github.io/museum-candy/)
 | **Specialization**                                                                                                                                                                                                                                                                                                                                    | **Status** | **Evidence** |
-| Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp 
-| In Progress | [link](https://github.com/Selt0/p1xt-guides/blob/master/specializations/app_academy_open.md)
+| Complete the [App Academy Open](https://open.appacademy.io/) free online Fullstack Bootcamp| In Progress | [link](https://github.com/Selt0/p1xt-guides/blob/master/specializations/app_academy_open.md)
 | **Capstone**                                                                                                                                                          | **Status** | **Evidence** |
 | Create a website highlighting what you learned and built during this tier. Use this as an opportunity to create a portfolio of your projects, notes, blog posts, etc. |            |
 ### Tier 1 - Getting Started
